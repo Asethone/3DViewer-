@@ -19,7 +19,7 @@
     <li>Make a GIF</li>
 </ul>
 <h4>EXAMPLE MODEL:</h4>
-<img class="midleImage" src="misc/images/dragon.gif">
+<img width="1000" src="misc/images/dragon.gif">
 <h5>Dragon.obj</h5>
 <h4>HOW TO USE:</h4>
 <ul>
@@ -40,7 +40,7 @@
 </ul>
 <h3>LET'S TALK ABOUT SETTING</h3>
 <p>Setting - This is a feature of the editor that allows you to customize it.</p>
-<img class="smallImage" src="misc/images/setting.png">
+<img width="500"  src="misc/images/setting.png">
 <h4>BASIC SETTING:</h4>
 <ul>
     <li>Selecting edge color</li>
